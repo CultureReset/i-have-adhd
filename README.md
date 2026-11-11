@@ -1,3 +1,14 @@
+> **CultureReset fork of [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd).** A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+>
+> - **Why it is here:** Saved as a reference while building NODE's agents, memory and tools.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** MIT, from upstream. For updates and issues, use [upstream](https://github.com/ayghri/i-have-adhd).
+>
+> The upstream README follows unchanged.
+
+---
+
 <p align="center">
   <img src="./logo.png" alt="i-have-adhd" width="140" />
 </p>
